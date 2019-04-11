@@ -1,0 +1,32 @@
+import { AssertionError } from "assert";
+
+var popular_array = await driver.findElements (webdriver.By.xpath("//div[@id='tabTrending']//a"))
+console.log(popular_array.length);
+i++ -> is a counter Element
+
+promise pending  - add an await
+
+Review:
+//await 
+//.getText
+//cmd works for xpath
+//relative path over exact path.
+//.subString()
+//
+
+
+module.exports = {
+    fibonacci: fibonacci
+}
+
+function fibonacci(number) {
+
+}
+
+
+xml . 
+
+
+// return AssertionError.include(html, 'PORSCHE');
+
+Name is generally pretty static
